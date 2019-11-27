@@ -23,7 +23,7 @@
             <feature name="ApplePay">
                 <param name="ios-package" value="CDVApplePay"/>
             </feature>
-   
+        </config-file>
     </platform>
 
 </plugin>
